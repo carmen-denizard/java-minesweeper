@@ -15,3 +15,7 @@ Due to a hardware incident, the program is currently in the process of being reb
 * 9:00 - 9:30 | Game Continuation Logic
 * 9:30 - 11:40 | Win-game Event Handling
 * 11:40 - 13:51 | Gameplay Demonstration
+
+**Tech Stack**
+* Language: Java
+* Concepts: Object-Oriented Programming (OOP), Data Structures (2D Arrays), Algorithm Design (Recursion)
