@@ -5,7 +5,8 @@ A fully functional Minesweeper game created using Java to demonstrate knowledge 
 
 Due to a hardware incident, the program is currently in the process of being rebuilt. A full review of the code behind the program's GUI components and gameplay mechanics can be reviewed below.
 
-**Video Demonstration of Program:** https://vimeo.com/1228452840?fl=tl&fe=ec 
+## Video Demonstration
+**[Watch the GUI Walkthrough Here](https://vimeo.com/1228452840?fl=tl&fe=ec)**
 
 ## Timestamps
 * 0:00 - 2:20 | UI Structure - Frame, Grid, & Buttons
