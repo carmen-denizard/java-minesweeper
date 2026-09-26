@@ -1,13 +1,13 @@
 # Java Minesweeper Game
 A fully functional Minesweeper game created using Java to demonstrate knowledge of Java Swing GUI components, complex randomization logic, and algorithmic grid and array generation.
 
-**Important Note**
+## Important Note
 
 Due to a hardware incident, the program is currently in the process of being rebuilt. A full review of the code behind the program's GUI components and gameplay mechanics can be reviewed below.
 
 **Video Demonstration of Program:** https://vimeo.com/1228452840?fl=tl&fe=ec 
 
-**Timestamps**
+## Timestamps
 * 0:00 - 2:20 | UI Structure - Frame, Grid, & Buttons
 * 2:20 - 4:55 | Player Action Event Detection
 * 4:55 - 9:30 | Lose-game Event Handling
@@ -16,6 +16,6 @@ Due to a hardware incident, the program is currently in the process of being reb
 * 9:30 - 11:40 | Win-game Event Handling
 * 11:40 - 13:51 | Gameplay Demonstration
 
-**Tech Stack**
-* Language: Java
-* Concepts: Object-Oriented Programming (OOP), Data Structures (2D Arrays), Algorithm Design (Recursion)
+## Tech Stack
+* **Language:** Java
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures (2D Arrays), Algorithm Design (Recursion)
