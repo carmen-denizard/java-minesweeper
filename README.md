@@ -11,8 +11,9 @@ Due to a hardware incident, the program is currently in the process of being reb
 ## Timestamps
 * 0:00 - 2:20 | UI Structure - Frame, Grid, & Buttons
 * 2:20 - 4:55 | Player Action Event Detection
-* 4:55 - 9:30 | Lose-game Event Handling
-  * 6:00 - 7:00 | Button Search in 2D Array Method
+* 4:55 - 6:00 | Lose-game Event Handling (Part 1)
+* 6:00 - 7:00 | Button Search in 2D Array Method
+* 7:00 - 9:00 | Lose-game Event Handling (Part 2)
 * 9:00 - 9:30 | Game Continuation Logic
 * 9:30 - 11:40 | Win-game Event Handling
 * 11:40 - 13:51 | Gameplay Demonstration
