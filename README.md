@@ -19,4 +19,4 @@ Due to a hardware incident, the program is currently in the process of being reb
 
 ## Tech Stack
 * **Language:** Java
-* **Concepts:** Object-Oriented Programming (OOP), Data Structures (2D Arrays), Algorithm Design (Recursion)
+* **Concepts:** Object-Oriented Programming (OOP), Data Structures (2D Arrays), Algorithm Design (Random Generation Logic)
